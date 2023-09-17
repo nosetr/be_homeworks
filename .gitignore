@@ -1,1 +1,6 @@
-/target/
+target/
+.settings/
+.dbeaver/
+.project
+.classpath
+Scripts/
