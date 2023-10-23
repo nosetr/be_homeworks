@@ -1,9 +1,9 @@
 -- New script in locale_verbindung.
 -- Date: 19.09.2023
 -- Time: 13:36:46
-CREATE database TelRan2;
+CREATE database TelRanHr;
 
-USE TelRan2;
+USE TelRanHr;
 
 CREATE TABLE users(
 	first_name varchar(128),
